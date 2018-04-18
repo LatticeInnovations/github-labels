@@ -12,4 +12,4 @@ Here is the list of labels we will be using to organise GitHub issues better.
 
 There can be custom tags if required for any specific project.
 
-The original idea behind this post, here is the LINK.
+The original idea behind this post, https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63.
