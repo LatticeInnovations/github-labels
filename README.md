@@ -1,15 +1,18 @@
 # github-labels
-Contains are the labels which we would be using in our project development cycle
+This repository contains all the labels which we would be using in our project development cycle.
 
 Here is the list of labels we will be using to organise GitHub issues better.
+> ### Issues are mainly categorized into two parts
 
-### Issues are mainly categorized into two parts
+   - **Type** - what type of issue.(e.g bug/question/design change/enhancement).
+  
+   - **Priority** - how critical the issue is. (e.g high/low )
 
-#### 1. Type - what type of issue.(e.g bug/question/design change/enhancement)
-#### 2. Priority - how critical the issue is. (e.g high/low )
-
-#### Won't Fix - this flag specifies that issue is known but we are not resolving the issue. 
+ #### Won't Fix - this flag specifies that issue is known but we are not resolving the issue. 
 
 There can be custom tags if required for any specific project.
 
-The original idea behind this post, https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63.
+> ### See Example
+Click on the issues section and you will find some examples there. 
+
+Insipiration comes from - [LINK](https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63). :bulb:
