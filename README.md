@@ -12,7 +12,7 @@ This repository contains all the labels which we would be using in our project d
 
 There can be custom tags if required for any specific project.
 
-> ### [See Example](https://github.com/LatticeInnovations/github-labels/issues)
+> ### [See Example](https://github.com/LatticeInnovations/github-labels/labels)
 Click on the [issues section](https://github.com/LatticeInnovations/github-labels/issues) and you will find some examples there and find all the labels by clicking on the [labels section](https://github.com/LatticeInnovations/github-labels/labels) (under issues page).
 
 Google Link for all the labels - [Here](https://docs.google.com/document/d/1fiNRl3Obt1e1FUDdGyR8Jcwq5pB_TQMaWUv1ojiCCVo/edit?usp=sharing) .
